@@ -1482,3 +1482,11 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+.sr-only{
+  position:absolute;
+  left:-10000px;
+  top:auto;
+  width:1px;
+  height:1px;
+  overflow:hidden;
+}
